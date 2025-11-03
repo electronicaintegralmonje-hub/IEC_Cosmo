@@ -1,7 +1,7 @@
 # Cosmología de Elasticidad Interna (CEI)  
 ## Simulación Numérica del Modelo – Código Reproducible  
 
-[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)  
+[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17516471.svg)](https://doi.org/10.5281/zenodo.17516471)  
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)  
 [![Python 3](https://img.shields.io/badge/python-3.8%2B-blue)](#)  
 
