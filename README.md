@@ -27,3 +27,30 @@ Este repositorio contiene la *implementación numérica completa* del modelo *Co
 ---
 
 ## Estructura del repositorio
+
+├── CEI_modelsim.py        ← Código principal (simulación completa) 
+├── cei_simulation.pdf     ← Figura final de resultados (4 paneles) 
+├── README.md              ← Este archivo 
+├── LICENSE                ← CC-BY 4.0 
+└── requirements.txt       ← Dependencias
+
+---
+
+## Resultados de la simulación
+
+Ejecuta el código para reproducir estos resultados (basados en parámetros calibrados con datos observacionales como Planck y DESI).
+
+| Parámetro | Valor | Descripción |
+|---------|-------|-----------|
+| Ω_m | *0.309* | Densidad de materia |
+| Ω_v | *0.691* | Energía oscura (emergente) |
+| H₀  | *~70 km/s/Mpc* | Resuelve tensión H₀ |
+| V_m | 6.0 | Volumen total de materia |
+| β   | 0.025 | Tasa de formación de vacíos por colapso |
+| γ   | 3.2 | Tasa de expansión elástica |
+| η   | 0.90 | Eficiencia de acoplamiento P → E |
+| P₀  | 850.0 | Escala de presión acoplada en t_recomb |
+
+> *Figura 1* (generada por el código):  
+> Expansión cósmica, crecimiento de vacíos, memoria elástica, evolución de Ω_m y Ω_v. (Ver cei_simulation.pdf para ejemplo).
+
